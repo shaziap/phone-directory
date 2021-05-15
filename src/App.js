@@ -3,8 +3,16 @@
 function App() {
   return (
     <div>
-    React Application
+      <div className="header">
+        React Application
     </div>
+      <button> Add</button>
+      <div>
+        <span> Name </span><br />
+        <span> Phone </span>
+      </div>
+    </div>
+
   );
 }
 
