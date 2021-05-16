@@ -7,7 +7,7 @@ import AddSusbscriber from './AddSubscriber';
 import './common/common.css';
 ReactDOM.render(
   <React.StrictMode>
-   <AddSusbscriber/>
+   <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
