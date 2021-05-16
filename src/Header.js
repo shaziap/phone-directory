@@ -1,4 +1,5 @@
 import React from 'react';
+import "./Header.css";
 const Header = function () {
 const headerStyle = {
     textAlign: 'center',
@@ -9,7 +10,7 @@ const headerStyle = {
  };
  return (
     
-    <div style={headerStyle}>
+    <div className="header">
         Phone Directory
     </div>
 )
