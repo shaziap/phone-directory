@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import PhoneDirectory from './PhoneDirectory';
-import AddSusbscriber from './AddSubscriber';
 import './common/common.css';
 
 ReactDOM.render(
